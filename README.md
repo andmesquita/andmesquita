@@ -1,6 +1,6 @@
 ### Hello! I'm Anderson. 👋
 
-<div align="center">
+<div align="rigth">
   <a href="https://github.com/andmesquita">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?
   username=andmesquita&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
@@ -10,7 +10,7 @@
   <img align="center" alt="And-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="And-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="And-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="And-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="And-React" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  </div>
   
 ##
