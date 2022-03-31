@@ -5,7 +5,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=andmesquita&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andmesquita&layout=compact&langs_count=7&theme=default"/>
   </div>
- 
+ ##
  **Learning**
  
   <div style="display: inline_block"><br>
@@ -15,7 +15,7 @@
   <img align="center" alt="And-React" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  </div>
   
- 
+ ##
  **Social Media**
  
   <div>
