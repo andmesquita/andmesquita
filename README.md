@@ -1,4 +1,6 @@
-### Hello! I'm Anderson. 👋
+ <div align="center">
+ 
+### Hey! I'm Anderson. 👋
 
 
 <div align="center">
@@ -26,4 +28,4 @@
     
 ![Snake animation](https://github.com/andmesquita/andmesquita/blob/output/github-contribution-grid-snake.svg)
  </div>  
- 
+ </div>
