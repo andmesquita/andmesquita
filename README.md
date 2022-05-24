@@ -1,6 +1,6 @@
  <div align="center">
  
-### Olá! Eu sou Anderson Mesquita, programador Front-End 👋
+### Olá! Eu sou Anderson Mesquita, Estudante De Desenvolvimento Web. 👋
 
 
 <div align="center">
